@@ -2,3 +2,7 @@
 
 
 console.log('hello word');
+
+
+
+//index 分支增加数据
