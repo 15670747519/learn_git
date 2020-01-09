@@ -31,9 +31,11 @@ console.log('hello word');
 
 
 // index +3 
+
 // +4
-// +5
 
 
 
-// index  git merge master
+
+
+// home  zengjia
