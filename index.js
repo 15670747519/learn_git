@@ -15,8 +15,6 @@ console.log('hello word');
 // index 改+1
 
 // index +2
-<<<<<<< HEAD
-=======
 
 
 
@@ -33,4 +31,3 @@ console.log('hello word');
 
 // index +3 
 // +4
->>>>>>> index
