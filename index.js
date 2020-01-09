@@ -12,3 +12,6 @@ console.log('hello word');
 // home 第二次增加
 
 // home  3次增加
+// index 改+1
+
+// index +2
