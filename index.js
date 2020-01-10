@@ -42,3 +42,6 @@ console.log('hello word');
 
 
 //index 增加  ///home 在index上+
+
+
+// index +
